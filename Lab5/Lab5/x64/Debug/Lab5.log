@@ -1,0 +1,19 @@
+﻿  Number.cpp
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(99,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(236,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(241,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(247,16): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(248,28): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(248,28): warning C4244:         with
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(248,28): warning C4244:         [
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(248,28): warning C4244:             _Ty=__int64
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(248,28): warning C4244:         ]
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(255,16): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(256,28): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(256,28): warning C4244:         with
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(256,28): warning C4244:         [
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(256,28): warning C4244:             _Ty=__int64
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(256,28): warning C4244:         ]
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(263,25): warning C4244: 'argument': conversion from 'const __int64' to 'int', possible loss of data
+C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\Lab5\Number.cpp(270,25): warning C4244: 'argument': conversion from 'const __int64' to 'int', possible loss of data
+  Lab5.vcxproj -> C:\Users\mihai\OneDrive\Desktop\OOP2025\Lab5\x64\Debug\Lab5.exe
