@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Toyota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Dacia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Ford.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Dacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Toyota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Mazda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Toyota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,32 +63,12 @@
       "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Mercedes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Dacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Toyota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mercedes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Mercedes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Mazda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Ford.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD763330-FA65-4CBA-991B-57C1E65E04C8}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,76 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Circuit.cpp",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.cpp",
-              "RelativeDocumentMoniker": "Lab6\\Circuit.cpp",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.cpp",
-              "RelativeToolTip": "Lab6\\Circuit.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:03:44.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Weather.cpp",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.cpp",
-              "RelativeDocumentMoniker": "Lab6\\Weather.cpp",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.cpp",
-              "RelativeToolTip": "Lab6\\Weather.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:03:37.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mazda.cpp",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.cpp",
-              "RelativeDocumentMoniker": "Lab6\\Mazda.cpp",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.cpp",
-              "RelativeToolTip": "Lab6\\Mazda.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:02:52.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ford.cpp",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.cpp",
-              "RelativeDocumentMoniker": "Lab6\\Ford.cpp",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.cpp",
-              "RelativeToolTip": "Lab6\\Ford.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:02:35.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Mercedes.cpp",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mercedes.cpp",
-              "RelativeDocumentMoniker": "Lab6\\Mercedes.cpp",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mercedes.cpp",
-              "RelativeToolTip": "Lab6\\Mercedes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:02:11.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Toyota.cpp",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.cpp",
               "RelativeDocumentMoniker": "Lab6\\Toyota.cpp",
@@ -155,38 +90,36 @@
               "RelativeToolTip": "Lab6\\Toyota.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:01:48.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T16:01:48.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\main.cpp",
               "RelativeDocumentMoniker": "Lab6\\main.cpp",
               "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\main.cpp",
               "RelativeToolTip": "Lab6\\main.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T15:44:22.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:44:22.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Circuit.h",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.h",
               "RelativeDocumentMoniker": "Lab6\\Circuit.h",
               "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.h",
               "RelativeToolTip": "Lab6\\Circuit.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-31T15:54:18.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Weather.h",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.h",
               "RelativeDocumentMoniker": "Lab6\\Weather.h",
@@ -194,51 +127,36 @@
               "RelativeToolTip": "Lab6\\Weather.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T15:51:15.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:51:15.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Dacia.h",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.h",
               "RelativeDocumentMoniker": "Lab6\\Dacia.h",
               "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.h",
               "RelativeToolTip": "Lab6\\Dacia.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-31T15:51:33.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dacia.cpp",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.cpp",
-              "RelativeDocumentMoniker": "Lab6\\Dacia.cpp",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.cpp",
-              "RelativeToolTip": "Lab6\\Dacia.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:01:28.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Mazda.h",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.h",
-              "RelativeDocumentMoniker": "Lab6\\Mazda.h",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.h",
-              "RelativeToolTip": "Lab6\\Mazda.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.h",
+              "RelativeDocumentMoniker": "Lab6\\Car.h",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.h",
+              "RelativeToolTip": "Lab6\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T15:52:58.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:50:38.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "Ford.h",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.h",
               "RelativeDocumentMoniker": "Lab6\\Ford.h",
@@ -246,12 +164,108 @@
               "RelativeToolTip": "Lab6\\Ford.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T15:52:50.741Z",
+              "WhenOpened": "2025-03-31T15:52:50.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mazda.h",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.h",
+              "RelativeDocumentMoniker": "Lab6\\Mazda.h",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.h",
+              "RelativeToolTip": "Lab6\\Mazda.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T15:52:58.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Toyota.h",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.h",
+              "RelativeDocumentMoniker": "Lab6\\Toyota.h",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.h",
+              "RelativeToolTip": "Lab6\\Toyota.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T15:51:45.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circuit.cpp",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Circuit.cpp",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Circuit.cpp",
+              "RelativeToolTip": "Lab6\\Circuit.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T16:03:44.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dacia.cpp",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Dacia.cpp",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Dacia.cpp",
+              "RelativeToolTip": "Lab6\\Dacia.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T16:01:28.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mercedes.cpp",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mercedes.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Mercedes.cpp",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mercedes.cpp",
+              "RelativeToolTip": "Lab6\\Mercedes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T16:02:11.024Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Ford.cpp",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Ford.cpp",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Ford.cpp",
+              "RelativeToolTip": "Lab6\\Ford.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T16:02:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mazda.cpp",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Mazda.cpp",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mazda.cpp",
+              "RelativeToolTip": "Lab6\\Mazda.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T16:02:52.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weather.cpp",
+              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.cpp",
+              "RelativeDocumentMoniker": "Lab6\\Weather.cpp",
+              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Weather.cpp",
+              "RelativeToolTip": "Lab6\\Weather.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T16:03:37.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Mercedes.h",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Mercedes.h",
               "RelativeDocumentMoniker": "Lab6\\Mercedes.h",
@@ -259,38 +273,11 @@
               "RelativeToolTip": "Lab6\\Mercedes.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T15:52:18.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:52:18.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Toyota.h",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.h",
-              "RelativeDocumentMoniker": "Lab6\\Toyota.h",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Toyota.h",
-              "RelativeToolTip": "Lab6\\Toyota.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T15:51:45.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Car.h",
-              "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.h",
-              "RelativeDocumentMoniker": "Lab6\\Car.h",
-              "ToolTip": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.h",
-              "RelativeToolTip": "Lab6\\Car.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T15:50:38.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Car.cpp",
               "DocumentMoniker": "C:\\Users\\mihai\\OneDrive\\Desktop\\OOP2025\\Lab6\\Lab6\\Car.cpp",
               "RelativeDocumentMoniker": "Lab6\\Car.cpp",
@@ -298,8 +285,7 @@
               "RelativeToolTip": "Lab6\\Car.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T16:01:10.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T16:01:10.756Z"
             }
           ]
         }
